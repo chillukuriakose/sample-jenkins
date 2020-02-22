@@ -10,4 +10,6 @@
 	<p>
 		how are you 
 		<%= request.getRemoteAddr()  %></p>
+		
+		<img src="D:\Album\deon.jpg"></img>
 </body>
